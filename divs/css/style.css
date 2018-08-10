@@ -1,0 +1,29 @@
+body{
+	background-color: #ffffff;
+}
+.topo{
+	border: 1px solid;
+	height: 200px;
+	background-color: #CCCCCC;
+}
+.menu_esquerdo{
+	border: 1px solid;
+	width:300px;
+	height:400px;
+	background-color: #f3f3f3;
+}
+.conteudo{
+	position: relative;
+	top: -400px;
+	left: 305px;
+	width: 1260px;
+	height: 400px;
+	border: 1px solid;
+}
+.barra_inferior{
+	border: 1px solid;
+	position: relative;
+	top: -401px;
+	background-color: #CCCCCC;
+	height: 100px;
+}
